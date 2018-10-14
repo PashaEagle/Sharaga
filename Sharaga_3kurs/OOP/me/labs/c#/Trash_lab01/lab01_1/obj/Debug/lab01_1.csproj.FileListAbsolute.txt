@@ -1,0 +1,14 @@
+C:/Users/Eagle/source/repos/lab01/lab01_1/bin/Debug/lab01_1.exe.config
+C:/Users/Eagle/source/repos/lab01/lab01_1/bin/Debug/lab01_1.exe
+C:/Users/Eagle/source/repos/lab01/lab01_1/bin/Debug/lab01_1.pdb
+C:/Users/Eagle/source/repos/lab01/lab01_1/obj/Debug/lab01_1.csprojResolveAssemblyReference.cache
+C:/Users/Eagle/source/repos/lab01/lab01_1/obj/Debug/lab01_1.csproj.CoreCompileInputs.cache
+C:/Users/Eagle/source/repos/lab01/lab01_1/obj/Debug/lab01_1.exe
+C:/Users/Eagle/source/repos/lab01/lab01_1/obj/Debug/lab01_1.pdb
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/obj/Debug/lab01_1.csprojResolveAssemblyReference.cache
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/obj/Debug/lab01_1.csproj.CoreCompileInputs.cache
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/obj/Debug/lab01_1.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/obj/Debug/lab01_1.pdb
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/bin/Debug/lab01_1.exe.config
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/bin/Debug/lab01_1.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_1/bin/Debug/lab01_1.pdb

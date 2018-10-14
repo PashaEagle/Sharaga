@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538301124 source:/home/pasha/Projects/lab01_01/main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+	<random>
+	<vector>
+

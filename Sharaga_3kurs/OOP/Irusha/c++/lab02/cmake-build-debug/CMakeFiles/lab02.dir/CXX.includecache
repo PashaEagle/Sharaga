@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pasha/Desktop/Шарага/Irusha/OOP/c++/lab02/main.cpp
+iostream
+/home/pasha/Desktop/Шарага/Irusha/OOP/c++/lab02/iostream
+

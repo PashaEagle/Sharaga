@@ -1,0 +1,12 @@
+/home/pasha/RiderProjects/lab01/lab01_01/bin/Debug/lab01_01.exe
+/home/pasha/RiderProjects/lab01/lab01_01/bin/Debug/lab01_01.pdb
+/home/pasha/RiderProjects/lab01/lab01_01/obj/Debug/lab01_01.csprojResolveAssemblyReference.cache
+/home/pasha/RiderProjects/lab01/lab01_01/obj/Debug/lab01_01.csproj.CoreCompileInputs.cache
+/home/pasha/RiderProjects/lab01/lab01_01/obj/Debug/lab01_01.exe
+/home/pasha/RiderProjects/lab01/lab01_01/obj/Debug/lab01_01.pdb
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/bin/Debug/lab01_01.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/bin/Debug/lab01_01.pdb
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/obj/Debug/lab01_01.csprojResolveAssemblyReference.cache
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/obj/Debug/lab01_01.csproj.CoreCompileInputs.cache
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/obj/Debug/lab01_01.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_01/obj/Debug/lab01_01.pdb

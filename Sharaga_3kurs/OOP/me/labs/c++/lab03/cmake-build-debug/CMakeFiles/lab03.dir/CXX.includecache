@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pasha/Desktop/Шарага/me/OOP/labs/c++/lab03/main.cpp
+iostream
+-
+string.h
+-
+bits/stdc++.h
+-
+algorithm
+-
+random
+-
+vector
+-
+

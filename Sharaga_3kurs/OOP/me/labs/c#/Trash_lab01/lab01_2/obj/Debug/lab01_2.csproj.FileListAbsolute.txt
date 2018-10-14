@@ -1,0 +1,6 @@
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/obj/Debug/lab01_2.csproj.CoreCompileInputs.cache
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/obj/Debug/lab01_2.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/obj/Debug/lab01_2.pdb
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/bin/Debug/lab01_2.exe.config
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/bin/Debug/lab01_2.exe
+/home/pasha/Desktop/Шарага/me/OOP/labs/c#/lab01/lab01_2/bin/Debug/lab01_2.pdb

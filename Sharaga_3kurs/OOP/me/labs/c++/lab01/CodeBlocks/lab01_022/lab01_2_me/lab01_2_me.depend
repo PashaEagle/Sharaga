@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536863838 source:c:\users\pasha eagle\downloads\telegram desktop\lab01_2_me\lab01_2_me\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<random>
+	<vector>
+
+1536864067 source:c:\users\eagle\desktop\lab01_2_meew\lab01_2_me\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<random>
+	<vector>
+

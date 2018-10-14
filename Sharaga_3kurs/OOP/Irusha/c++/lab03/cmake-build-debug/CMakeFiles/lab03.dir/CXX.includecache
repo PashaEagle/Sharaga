@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pasha/Desktop/Шарага/Irusha/OOP/c++/lab03/main.cpp
+iostream
+-
+string.h
+-
+random
+-
+vector
+-
+

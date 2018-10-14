@@ -1,0 +1,6 @@
+/home/pasha/RiderProjects/lab01/lab01_02/bin/Debug/lab01_02.exe
+/home/pasha/RiderProjects/lab01/lab01_02/bin/Debug/lab01_02.pdb
+/home/pasha/RiderProjects/lab01/lab01_02/obj/Debug/lab01_02.csprojResolveAssemblyReference.cache
+/home/pasha/RiderProjects/lab01/lab01_02/obj/Debug/lab01_02.csproj.CoreCompileInputs.cache
+/home/pasha/RiderProjects/lab01/lab01_02/obj/Debug/lab01_02.exe
+/home/pasha/RiderProjects/lab01/lab01_02/obj/Debug/lab01_02.pdb
