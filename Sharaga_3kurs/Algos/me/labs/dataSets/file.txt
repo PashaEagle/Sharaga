@@ -1,0 +1,21 @@
+20
+Nazar | Literature | 2
+Anya | Physics | 4
+Petya | Probability Theory | 4
+Egor | Italian | 3
+Anya | Computer Science | 5
+Egor | Italian | 4
+Dima | English | 5
+Egor | Italian | 3
+Vasya | Literature | 4
+Nazar | Programming | 2
+Vasya | Italian | 5
+Anya | Physics | 5
+Egor | Italian | 4
+Egor | Programming | 4
+Nazar | Computer Science | 2
+Petya | Programming | 2
+Dima | Physics | 2
+Dima | Literature | 4
+Nastya | Programming | 4
+Egor | Probability Theory | 5

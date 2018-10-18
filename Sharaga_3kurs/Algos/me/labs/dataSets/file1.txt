@@ -1,0 +1,3 @@
+Name1 | english | 15
+Petya | afd | 1
+asdf | 12 | 12
