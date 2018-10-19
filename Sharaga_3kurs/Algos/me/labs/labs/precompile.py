@@ -14,7 +14,7 @@ for i in range(amt):
     temp = Data()
     fields = (myfile.readline()).split(" | ")
     #print(fields[0] + ", " + fields[1])
-    temp.name = fields[0]
+    temp.name = fields[0] + " " * (17 - len(fields[0]))
     temp.subject = fields[1]
     temp.mark = int(fields[2])
     ls.append(temp)

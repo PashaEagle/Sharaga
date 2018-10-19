@@ -9,6 +9,7 @@ class Data:
     subject = "not set"
     mark = -1
 
+d_Surnames = ("Kolesnyk", "Momot", "Yamborko", "Pelihovskiy", "Savic", "Samoyluk")
 d_Names = ("Petya", "Pasha", "Vasya", "Dima", "Egor", "Taras", "Nazar", "Anya", "Dasha", "Nastya", "Katya")
 d_Subjects = ("English", "Math", "Programming", "Computer Science", "Physics", "Italian", "Probability Theory", "Literature")
 
@@ -28,7 +29,7 @@ if ans.lower() == "yes":
     random.seed()
     for i in range(amt):
         x = Data()
-        x.name = d_Names[random.randint(0, len(d_Names) - 1)]
+        x.name = d_Surnames[random.randint(0, len(d_Surnames) - 1)] + " " + d_Names[random.randint(0, len(d_Names) - 1)]
         x.subject = d_Subjects[random.randint(0, len(d_Subjects) - 1)]
         x.mark = random.randint(2, 5)
         ls.append(x)
@@ -41,10 +42,10 @@ else:
         x.mark = input("Enter mark of " + str(i) + " student.. ")
         ls.append(x)
     print("Data successfully generated")
-
-print(ls[17].name)
-print(ls[17].subject)
-print(ls[17].mark)
+#
+# print(ls[17].name)
+# print(ls[17].subject)
+# print(ls[17].mark)
 
 fileName = str(input("Enter name of the file to finish.. "))
 myfile = open("../dataSets/" + str(fileName) + ".txt", "w")

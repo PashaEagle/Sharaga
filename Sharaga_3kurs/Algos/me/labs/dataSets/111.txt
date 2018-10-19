@@ -1,7 +1,0 @@
-Nastya | English | 3
-Egor | Math | 2
-Egor | Literature | 3
-Anya | Computer Science | 3
-Nazar | Italian | 4
-Petya | Programming | 2
-Katya | Programming | 5
