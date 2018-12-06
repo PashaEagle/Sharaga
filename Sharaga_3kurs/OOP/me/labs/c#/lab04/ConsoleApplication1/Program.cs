@@ -99,7 +99,6 @@ namespace ConsoleApplication1
             {
                 derzh.Info();
             }
-            Console.WriteLine("Hello, rider !");
         }
     }
 }
