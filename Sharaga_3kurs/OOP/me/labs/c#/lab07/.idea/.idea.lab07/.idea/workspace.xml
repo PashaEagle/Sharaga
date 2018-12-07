@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbfe4343-009e-4999-8f77-d39579679708" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../c++/lab01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c++/lab07_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../c++/lab07_2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab06/.idea/.idea.lab06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab06/.idea/.idea.lab06/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c++/lab05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/lab05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab07/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab07/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lab07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07.sln" beforeDir="false" afterPath="$PROJECT_DIR$/lab07.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07_1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lab07_1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/lab07_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/lab07_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/lab07_2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/lab07_2/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,61 +25,113 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="3" />
+          <entry key="soap" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="24" />
+          <entry key="cs" value="440" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="24" />
+          <entry key="C#" value="440" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab07_1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state>
+              <caret selection-end-line="97" selection-end-column="1" />
               <folding>
-                <marker date="1544208002533" expanded="true" signature="32:1311" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="50:1004" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="288:356" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="384:502" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="536:621" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="665:782" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="828:896" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="937:997" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="1034:1309" ph="{...}" />
-                <marker date="1544208002533" expanded="true" signature="1080:1303" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="6:47" ph="..." />
+                <marker date="1544209143037" expanded="true" signature="66:2317" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="84:1038" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="322:390" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="418:536" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="570:655" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="699:816" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="862:930" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="971:1031" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="1068:2315" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="1114:2309" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="1502:1766" ph="{...}" />
+                <marker date="1544209143037" expanded="true" signature="2037:2297" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab07_2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1544210563770" expanded="true" signature="6:116" ph="..." />
+                <marker date="1544210563770" expanded="true" signature="136:2244" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="173:1127" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="411:479" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="507:625" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="659:744" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="788:905" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="951:1019" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="1060:1120" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="1157:2242" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="1203:2236" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="1612:1749" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="1892:2226" ph="{...}" />
+                <marker date="1544210563770" expanded="true" signature="2087:2212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/66560AF9-4137-42E0-89B9-A21B0597147E/50/46acb91b/SoapWriter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1549">
+              <caret line="243" column="5" selection-start-line="243" selection-start-column="5" selection-end-line="243" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>points</find>
+      <find>q</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>q</replace>
+      <replace>s</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/66560AF9-4137-42E0-89B9-A21B0597147E/50/46acb91b/SoapWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lab07_2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/lab07_1/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lab07_1/Program.cs" />
+        <option value="$PROJECT_DIR$/lab07_2/Program.cs" />
       </list>
     </option>
   </component>
@@ -107,15 +160,10 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="lab07" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="lab07" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="lab07_1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-all-files" value="false" />
+        <option name="show-all-files" value="true" />
       </pane>
     </panes>
   </component>
@@ -136,25 +184,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.lab07_2">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/lab07_1/bin/Debug/lab07_1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab07_1/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/lab07_1/lab07_1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab07_2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/lab07_2/bin/Debug/lab07_2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab07_2/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/lab07_2/lab07_2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.lab07_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.lab07_2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -166,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544207979354</updated>
-      <workItem from="1544207980714" duration="22000" />
+      <workItem from="1544207980714" duration="2637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22000" />
+    <option name="totallyTimeSpent" value="2637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,9 +271,10 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.30252102" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3042017" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,19 +307,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lab07_1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state>
+          <caret selection-end-line="97" selection-end-column="1" />
           <folding>
-            <marker date="1544208002533" expanded="true" signature="32:1311" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="50:1004" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="288:356" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="384:502" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="536:621" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="665:782" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="828:896" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="937:997" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="1034:1309" ph="{...}" />
-            <marker date="1544208002533" expanded="true" signature="1080:1303" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="6:47" ph="..." />
+            <marker date="1544209143037" expanded="true" signature="66:2317" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="84:1038" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="322:390" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="418:536" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="570:655" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="699:816" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="862:930" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="971:1031" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="1068:2315" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="1114:2309" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="1502:1766" ph="{...}" />
+            <marker date="1544209143037" expanded="true" signature="2037:2297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/66560AF9-4137-42E0-89B9-A21B0597147E/50/46acb91b/SoapWriter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1549">
+          <caret line="243" column="5" selection-start-line="243" selection-start-column="5" selection-end-line="243" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07_2/bin/Debug/points.soap">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07_2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1544210563770" expanded="true" signature="6:116" ph="..." />
+            <marker date="1544210563770" expanded="true" signature="136:2244" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="173:1127" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="411:479" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="507:625" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="659:744" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="788:905" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="951:1019" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="1060:1120" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="1157:2242" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="1203:2236" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="1612:1749" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="1892:2226" ph="{...}" />
+            <marker date="1544210563770" expanded="true" signature="2087:2212" ph="{...}" />
           </folding>
         </state>
       </provider>

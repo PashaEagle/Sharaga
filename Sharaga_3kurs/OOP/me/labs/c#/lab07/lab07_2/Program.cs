@@ -1,8 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Soap;
 
-namespace lab07_1
+
+namespace lab07_2
 {
+    [Serializable]
     class Point
     {
         private int x;
@@ -56,43 +60,28 @@ namespace lab07_1
             Point p2 = new Point(5, 6);
             Point p3 = new Point(0, 0);
 
-            Queue<Point> q = new Queue<Point>();
-            
-            q.Enqueue(p1);
-            q.Enqueue(p2);
-            q.Enqueue(p3);
+            Point[] points = new Point[]{p1, p2, p3};
+            SoapFormatter formatter = new SoapFormatter();
+            // получаем поток, куда будем записывать сериализованный объект
+            using (FileStream fs = new FileStream("points.soap", FileMode.OpenOrCreate))
+            {
+                formatter.Serialize(fs, points);
+ 
+                Console.WriteLine("Объект сериализован");
+            }
 
-            Console.WriteLine("Queue size = " + q.Count);
             int i = 1;
-            while (q.Count > 0)
+            // десериализация
+            using (FileStream fs = new FileStream("points.soap", FileMode.OpenOrCreate))
             {
-                Console.WriteLine("Element {0}:", i);
-                Console.WriteLine("X = {0}", q.Peek().X);
-                Console.WriteLine("Y = {0}", q.Peek().Y);
-                Console.WriteLine();
-                q.Dequeue();
+                Point[] newPoints = (Point[]) formatter.Deserialize(fs);
+
+                Console.WriteLine("Объект десериализован");
+                foreach (Point p in newPoints)
+                {
+                    Console.WriteLine("Element {0}: --- X: {1}, Y: {2}", i++, p.X, p.Y);
+                }
             }
-
-            
-            
-            Stack<Point> s = new Stack<Point>();
-            
-            s.Push(p1);
-            s.Push(p2);
-            s.Push(p3);
-
-            Console.WriteLine("Stack size = " + s.Count);
-            i = 1;
-            while (s.Count > 0)
-            {
-                Console.WriteLine("Element {0}:", i);
-                Console.WriteLine("X = {0}", s.Peek().X);
-                Console.WriteLine("Y = {0}", s.Peek().Y);
-                Console.WriteLine();
-                s.Pop();
-            }
-
-
         }
     }
 }
