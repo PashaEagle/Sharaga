@@ -1,0 +1,107 @@
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd1\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd2\asd1\obj\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\bin\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\bin\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.csprojAssemblyReference.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.csproj.GenerateResource.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd2\asd2\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd2NEW\asd2\asd2\asd1\obj\Debug\asd1.pdb
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Eagle\Downloads\Telegram Desktop\asd5\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd5NEW\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd8\asd5\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd9\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.csprojAssemblyReference.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd9\asd9\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.csprojResolveAssemblyReference.cache
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.Cache
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Ira_Eagles\source\repos\asd9NEW\asd9\asd9\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.csprojAssemblyReference.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\obj\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Pasha Eagle\Downloads\Telegram Desktop\asd11\asd11\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\bin\Debug\asd1.exe
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\bin\Debug\asd1.pdb
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.csprojAssemblyReference.cache
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.Form1.resources
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.Properties.Resources.resources
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.csproj.GenerateResource.cache
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.exe
+C:\Users\Pasha Eagle\Desktop\Алгоритми Тарас\11\asd11NEW\asd11\asd5\asd1\obj\Debug\asd1.pdb
