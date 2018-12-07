@@ -1,0 +1,3 @@
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c++/lab07_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c++/lab07_1/cmake-build-debug/CMakeFiles/edit_cache.dir
