@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5193e112-b6a5-4e59-9dab-1d5eabfa6792" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../c++/lab05/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab04/.idea/.idea.lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab04/.idea/.idea.lab04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c++/lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/lab04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c++/lab05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c++/lab05/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,7 @@
     <session id="490592722">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.opened" value="2" />
@@ -49,7 +47,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab05/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="400">
               <caret line="132" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="135" selection-end-column="9" />
               <folding>
                 <marker date="1544188615703" expanded="true" signature="30:3261" ph="{...}" />
@@ -179,12 +177,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544123247612</updated>
       <workItem from="1544123249222" duration="1447000" />
-      <workItem from="1544187058730" duration="2177000" />
+      <workItem from="1544187058730" duration="2783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3624000" />
+    <option name="totallyTimeSpent" value="4230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,7 +203,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37310925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37310925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,7 +243,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lab05/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="400">
           <caret line="132" column="19" selection-start-line="6" selection-start-column="8" selection-end-line="135" selection-end-column="9" />
           <folding>
             <marker date="1544188615703" expanded="true" signature="30:3261" ph="{...}" />

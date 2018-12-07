@@ -1,0 +1,6 @@
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/bin/Debug/lab06.exe
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/bin/Debug/lab06.pdb
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/obj/Debug/lab06.csprojAssemblyReference.cache
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/obj/Debug/lab06.csproj.CoreCompileInputs.cache
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/obj/Debug/lab06.exe
+/home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab06/lab06/obj/Debug/lab06.pdb
