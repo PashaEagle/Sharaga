@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c0d4fee-c42c-4f1a-b89a-0b47581f6585" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab04/.idea/.idea.lab04/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/.idea/.idea.lab04/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/.idea/.idea.lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/.idea/.idea.lab04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lab04/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07/.idea/.idea.lab07/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab07/.idea/.idea.lab07/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07/.idea/.idea.lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab07/.idea/.idea.lab07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07/lab07_1/obj/Debug/lab07_1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab07/lab07_1/obj/Debug/lab07_1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07/lab07_2/obj/Debug/lab07_2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lab07/lab07_2/obj/Debug/lab07_2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/CMakeFiles/lab04.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/lab04.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab04/cmake-build-debug/lab04.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/CMakeFiles/lab07_1.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/lab07_1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/cmake-build-debug/lab07_1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/CMakeFiles/lab07_2.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/lab07_2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/lab07_2/cmake-build-debug/lab07_2.cbp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2024976134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+          <entry key="sln" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+          <entry key="Solution File" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab04/ConsoleApplication1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-410">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lab04/ConsoleApplication1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="769" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c0d4fee-c42c-4f1a-b89a-0b47581f6585" name="Default Changelist" comment="" />
+      <created>1544268384420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544268384420</updated>
+      <workItem from="1544268385877" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab04/lab04.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04/ConsoleApplication1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

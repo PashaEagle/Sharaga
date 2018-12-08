@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main() {
-    priority_queue <int> q;
+int main() {priority_queue <int> q;
     q.push(7);
     q.push(10);
     q.push(3);
@@ -31,6 +30,7 @@ int main() {
         cout << s.top() << endl;
         s.pop();
     }
+
 
 
 

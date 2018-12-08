@@ -4,3 +4,9 @@
 /home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab07/lab07_1/obj/Debug/lab07_1.csproj.CoreCompileInputs.cache
 /home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab07/lab07_1/obj/Debug/lab07_1.exe
 /home/pasha/Documents/Sharaga_3kurs/OOP/me/labs/c#/lab07/lab07_1/obj/Debug/lab07_1.pdb
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\bin\Debug\lab07_1.exe
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\bin\Debug\lab07_1.pdb
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\obj\Debug\lab07_1.csprojAssemblyReference.cache
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\obj\Debug\lab07_1.csproj.CoreCompileInputs.cache
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\obj\Debug\lab07_1.exe
+C:\Users\Pasha Eagle\Documents\Sharaga\Sharaga\Sharaga_3kurs\OOP\me\labs\c#\lab07\lab07_1\obj\Debug\lab07_1.pdb
